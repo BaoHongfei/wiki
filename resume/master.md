@@ -5,7 +5,7 @@
 学历：本科  
 手机：18626449858  
 邮箱：baohongfei@gmail.com  
-博客：[http://blog.baohongfei.com][1]  
+博客：[http://blog.baohongfei.com](http://blog.baohongfei.com)  
 ## 教育背景
 
 2010年毕业于安徽大学-计算机学院-网络工程专业  
