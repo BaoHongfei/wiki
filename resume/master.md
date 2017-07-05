@@ -21,15 +21,14 @@
 2011/09 \~ 2014/05 华为互联网项目，类微信即时通讯软件开发  
 2010/04 \~ 2011/08 中电普华，安徽电力营销系统运维工作  
 ## 专业技能
--六年J2SE开发经验，可以灵活的使用Java进行多线程编程，并熟练使用Spring MVC, Spring AOP, Hibernate  
--掌握RESTful的相关框架(Spring）  
--熟悉Flume, Solr API及SolrCloud，了解Hadoop生态系统（HDFS, Zookeeper），懂得分布系统的基本概念  
--熟练使用Eclipse，Linux，MySql  
--很强的自学能力并对新事物充满好奇  
--可以适应偶尔较大的工作压力  
--可以很好的阅读英文文档  
+- 六年J2SE开发经验，可以灵活的使用Java进行多线程编程，并熟练使用Spring MVC, Spring AOP, Hibernate  
+- 掌握RESTful的相关框架(Spring）  
+- 熟悉Flume, Solr API及SolrCloud，了解Hadoop生态系统（HDFS, Zookeeper），懂得分布系统的基本概念  
+- 熟练使用Eclipse，Linux，MySql  
+- 很强的自学能力并对新事物充满好奇  
+- 可以适应偶尔较大的工作压力  
+- 可以很好的阅读英文文档  
 ## 英语
-
 CET-6 以及良好的英文阅读、写作、表达和沟通技能。  
 托业（700+）
 ## 兴趣爱好
