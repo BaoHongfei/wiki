@@ -26,8 +26,8 @@
 - 熟悉Java、J2EE、Spring开发，基础扎实。
 - 熟练掌握Zookeeper、MQ、RPC等各种Java中间件技术。
 - 熟练使用Oracle、MySQL、PostgreSQL、Redis等各种数据库。
-- 了解Hadoop生态系统（HDFS, Hive），懂得分布系统的基本概念。
-- 熟练使用Eclipse，Linux，MySql  
+- 了解Hadoop生态系统（HDFS、 Hive），了解分布系统的基本概念。
+- 熟练使用Eclipse、IntelliJ、Linux  
 - 很强的自学能力并对新事物充满好奇  
 - 可以适应偶尔较大的工作压力  
 - 可以很好的阅读英文文档  
